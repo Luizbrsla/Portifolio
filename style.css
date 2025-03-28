@@ -7,6 +7,10 @@ box-sizing: border-box; /*cria uma caixa invisivel para o corpo do site*/
     background-color: azure;/*cor do fundo do topo do site*/
     height: 15vh; /*tamanho do corpo do site 15% da tela*/
 }
+.conteudo{
+height:85vh ;
+background-color:aqua ;
+}
 
 
 
