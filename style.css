@@ -4,12 +4,12 @@ padding: 0 ;/*deixa a margem superior e inferior nula*/
 box-sizing: border-box; /*cria uma caixa invisivel para o corpo do site*/
 }
 .topo{
-    background-color:rgb(76, 82, 175);/*cor do fundo do topo do site*/
+    background-color:blue (76, 82, 175);/*cor do fundo do topo do site*/
     height: 15vh; /*tamanho do corpo do site 15% da tela*/
 }
 .conteudo{
 height:85vh ;
-background-color:rgb(0, 95, 95) ;
+background-color:blue (0, 95, 95) ;
 }
 
 
