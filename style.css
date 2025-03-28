@@ -9,7 +9,7 @@ box-sizing: border-box; /*cria uma caixa invisivel para o corpo do site*/
 }
 .conteudo{
 height:85vh ;
-background-color:azure ;
+background-color:rgb(15, 252, 252) ;
 }
 
 
